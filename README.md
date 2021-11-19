@@ -1,4 +1,4 @@
-## SmartRetrofit
+## SmartHttp
 
 一款基于RxJava2+Retrofit3+OkHttp3实现的网络请求框架，采用Builder链式调用，集成cookie管理，多种缓存模式，极简https配置，
 上传下载进度，请求错误自动重试，请求携带token、时间戳、签名动态配置，自动登录成功后请求重发功能，3种层次的参数设置默认全局局部，
